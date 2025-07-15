@@ -1,13 +1,16 @@
-# LoginForm
+# Android Login Form
 
-A simple Android application demonstrating a basic login form.
+Android application demonstrating a basic login form.
 
 ## Features
 - Basic login screen UI
+- Option to reveal/hide password
 - Dummy form validation 
 - Displays best on Medium Phone in AVD
 
 ## Screenshot
+
+<img width="350" height="750" alt="Screenshot 2025-07-15 at 4 36 02_PM" src="https://github.com/user-attachments/assets/db693adc-41ad-4e4e-83a7-a5822cb0b06d" />
 
 
 ## Project Structure
@@ -32,6 +35,3 @@ LoginForm/
 
 ## Image Credits
 The image used in this project are not owned by the author. Credits are unknown.
-
----
-This project is for educational/demo purposes only. 
